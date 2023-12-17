@@ -1,0 +1,73 @@
+That's a good question.
+I'll tell you a story, a confession.
+When I went to library school in the dawn of the Cretaceous period in 1966, we were still, of course, everything was still manual.
+Computers were used just at the margins of anything.
+And we had a class on reference sources where we would practice with questions and look up the answer to the questions in the reference books.
+And so we had a reference lab and it consisted of a room with copies of old reference books.
+And then we'd have a little box that would have questions on three by five cards.
+And you would answer a question and put it away and write down on your notebook.
+And at the end of the hour, you would turn in your answers.
+And I had a friend who at the end of the hour turned in 22 answers and I turned in two.
+So that hit home.
+I was used to doing well.
+I'm a smart student.
+I did well in my schooling and why was I such a doofus in this situation? So that got me interested in search.
+Because after all, this is a key librarian skill that is still true.
+And here I was going to library school and I couldn't do what librarians do half a tenth as well as my friend did.
+So what I soon learned is that there wasn't much of any knowledge about this in the field.
+It was just assumed that you would pick this up somehow, that you'd have an instinct for it.
+But I didn't.
+So it got me interested.
+Well, how can you improve search? And I started looking for heuristics and techniques to improve search and eventually published an article called Information 
+Search Tactics that was sort of my first big hit, if you will, because it had a lot of suggestions for how to find things more effectively.
+And a lot of researchers since then have used the ideas in there to see in various experiments and stuff to see if people use those tactics in their searching.
+This touches on something else.
+I recently got a letter to the editor published in the New York Times magazine.
+
+We'll put a link to that in the show notes.
+
+OK.
+It was in response to a previous issue where they had talked about women in computing.
+And what I said in this was that so much of the design of interfaces is about dominance.
+In that sense, it's it's very male.
+We tend to create relationships with others.
+Males tend to have an implicit competition with other males.
+And, you know, for whatever reason, that's kind of how we find ourselves operating in practice.
+And that bleeds even into the design of interfaces.
+And one of the things that as soon as you talk about doing something with language, which was actually very difficult, people have been working on automatic 
+translation and so on for 50 or 60 years.
+And it's been a hard, long slog.
+But if you talk to what I found again and again is that somebody designing a system wants to have everything be done automatically.
+I think it is a dominance thing.
+It's about you go out, little computer bot, and you find something for me and you bring it back to me and put it at my feet.
+That's, you know, that's the male thing.
+And not that men and women both don't have some of these tendencies.
+I'm convinced.
+But whereas women are creating relationships, that's the most that's the thing we do when we encounter a new person in our milieu is that we size each other up, 
+but in a relatedness way rather than in a dominance way.
+And we do this in the design of interfaces as well.
+We tell the bot to go out and do something for us.
+We don't set up a relationship with the system, which aids and assists us.
+And we tell it to do X and it brings something back and we have an idea and then we follow up on this thing.
+We don't create a series of features to the interface that enable you to enrich your search.
+And it would be so easy to do that if you had the kind of Google resources, you know, but that doesn't that doesn't fit it.
+So always, all these possibilities, an awful lot of the ways in which a computer can augment or support what you're doing are just brushed aside.
+They're not if they're proposed, they're ignored, because it's all about power.
+You know, it's all about having the computer do your will.
+And so a lot of possible ways that you can interact with this are lost.
+And when it comes to creating vocabulary like this, for instance, there's a huge difference between indexing billions of records, which is, you know, ridiculous, 
+we all know, we can't do that manually, and having 100% automation.
+What if you instead had some a few human beings, like 20 of them, working on vocabularies that you made available to people, so you got a lot of the crap out that 
+comes up with automatic techniques, because they, they curate the vocabulary.
+And you make these different augmenting features available to the searcher, all you need is 20 people, you don't need because you're not indexing each individual 
+document, you're giving greater richness and possibility to the person doing the searching to match with the richness that's already there in the documents.
+Sorry, I get I get launched on these things.
+And then I know, sorry. 
+
+you just need your group of librarians that you trained, they can do it.
+
+Oh, there's, you know, people, one of the areas of information architecture is taxonomy and thesaurus design, and, you know, recognizing the terminology that's 
+used in a particular work environment.
+And that involves people, you know, it, we accept that, but somehow, even a relative handful of people is somehow wasteful.
+And we have to do everything 100% automatic.
+In fact, I think we could use the strengths of the machine and the strengths of the human in a much better coordinated way than we generally do.

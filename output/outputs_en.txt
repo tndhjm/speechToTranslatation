@@ -1,0 +1,403 @@
+Hi, and welcome to UX radio.
+So we are really looking forward to our conversation today.
+I'm your host, Laura Federoff.
+And I'm Chris Chandler.
+Good morning, Marcia.
+
+Good morning.
+I have to say, it's always a pleasure.
+I had the pleasure of working with Marcia at UCLA back around the turn of the century, I like to say now.
+Sounds so funny.
+Marcia, sometimes people are, they don't understand when I talk about the connection between what we now call user experience and library science.
+There's often a puzzled look I get.
+And I'm curious if you could talk about sort of, you know, people are surprised that librarians are so digital.
+
+Right.
+Yeah.
+We're the original information people, which I am proud of.
+There was a time when if you wanted to find something out, you couldn't look up on Google.
+Your best chance to find it was to go to a library.
+Now, that's way more complicated and difficult than searching on Google.
+And so it's very understandable that we have all resorted to Google.
+But people in my field have been thinking about these questions for a long time.
+And certainly my particular interest, which always has been in search, you're searching in a library, you're searching in a library catalog.
+That was the first place where most people were exposed to online other than an ATM was when you went to the library and you entered something 
+into the library catalog, the online library catalog.
+And then, of course, full fledged online.
+So we've been at the heart of this whole question of how you search and how you find things for many decades.
+So to me, it's seamless.
+You go from the human being is the common element.
+And I think we get so excited about these incredible technologies that we forget that the common element is the human being and our psychology, 
+the way our minds work.
+And that stays.
+That's been there all along.
+It adapts to each new technology.
+But there are some sort of common core features about how we search that I think are still not adequately understood in our larger digital world.
+
+What do you think is the main misunderstanding there?
+
+I think a couple of things.
+One, you assume that you come up with a term and you enter it in your search box.
+What actually happens then is it's a psychological thing that happens that makes it actually more difficult for you to think of another word besides the one that
+ you thought of initially.
+And we're used to entering that word and getting a bunch of things back.
+And we assume that's it.
+You know, very straightforward.
+But in fact, you're often interested in a more complex topic.
+And you put in just the first word you could think of.
+But it didn't occur to you that there are dozens of other closely related words that you might have entered and that would have gotten you completely different
+stuff.
+And I came up with an example here of suppose you're interested in the whole migration controversies that we're having right now.
+
+Well, you put in migration.
+And if you try that on on Google, you'll see all the entries have migration prominently featured in them.
+But it might be that what you're really more interested in is sanctuary, finding applying for sanctuary, or you're interested in refugees, flight, deporting, 
+borders, defection, resettlement, diaspora, relocation, settlement camps, forced migration, internal migration.
+You know, all of these are closely related terms.
+And once you've thought of one of them, it's actually hard to think of any of the others.
+And a basic psychological principle that everybody ignores is that recognition is much easier than recall.
+So if you think of the word migration, you may not be able to think of all those other things.
+But if you're shown a screen with a spray, an array of these terms, you can your eye will instantly go to the one that is actually what your main interest.
+But we never give people that cluster.
+And it could be done very easily.
+Because all you'd have to do is click on the one that you like it if it's the same one you started with your home free.
+But if you see when you look at this, oh, hey, there's this thing and this thing and this thing, you realize that it's more complex, that there's more angles to it.
+And it's very common for what your real interest is to be one of those other terms.
+And we don't give that to people.
+We we assume that there are two or three terms for some topic that we're interested in.
+There's actually 30 4050 terms.
+And it would be very easy to handle this in an online system.
+But nobody does it.
+Because they don't realize how much that enriches your search and how much better search you can then do.
+I've been proposing this for decades.
+And there have been some tries at it, which I can I can tell you about if you want.
+But there's one recently published article where they did do an experiment.
+These were computer scientists, they did it completely automatically.
+Not the way that that I've been proposing, but it was essentially the same thing.
+And they got 100% improvement in the quality of the results.
+100%.
+You know, most of these studies is, well, we went from 71% to 74%, you know, and, and they're always down around there, you know, 100% better, 
+double the performance, okay.
+And yet, we just don't pick up on this.
+The study I'm referring to is, was in CACM, January 2015.
+And the author was named Tuka Ruotsalo with Finn, I love a name like that.
+His last name is R U O T S A L O.
+And if you want to look for something like this, it's not exactly what I'm proposing, but it's very similar.
+And it has the same effect that gets this incredibly improved response.
+But because it doesn't match anybody, he founded a company called Itsemo.
+Itse and Finnish is to look for something.
+He founded this company.
+But it's having trouble getting these ideas across to it just runs against what everybody assumes.
+So end of lecture.
+
+I love how you talk about this topic.
+And I'm really curious what drives your passion around search.
+What is it in you that makes it so fascinating?
+
+A couple things.
+For one, the word cloud usually isn't clickable.
+In other words, you can't just open that term.
+For another, a word cloud is not technically the same as what I'm talking about.
+I'm talking about a sort of cluster thesaurus.
+If you look at the words in a word cloud, many of them are not closely related.
+They're just the ones that happen to be used the most in a particular document.
+These are ones that are closely related conceptually.
+And it doesn't matter broader, narrow, or any of that traditional thesaurus stuff.
+It's just a cluster of terms that show up in various topic areas.
+And the reason that I even thought of this idea or started pushing it was that during the 70s and 80s, you used to be able to go into public and academic 
+libraries and special libraries and order up a search that the librarian would do for you.
+This was the original online world pre-internet.
+This was done on telephone lines to centralize database collections.
+And it cost several hundred dollars often to do one of these searches.
+So the librarians who were trained in this, and I used to train these librarians, learned to do this very efficiently and effectively.
+They did what worked the best and got the most productive results for their users.
+And what they found that to be was doing what used to be called a hedge, which was a series of ORD terms, A or B or C or D, which they took from many different 
+thesauri.
+They realized after a while that it was the term variance around the core concept that mattered.
+And it didn't even matter which thesaurus you got it from because you could find, especially on natural word searching, you could find a lot more highly relevant 
+stuff.
+And this idea was taken to the point of even producing a book that was a thesaurus for search that was done by one of the most experienced searchers at that time, 
+a woman named Sarah Knapp.
+And I have said book in front of me, and that's where I got all the terms for the migration example.
+But it's several hundred pages long, and she shaped those clusters specifically for this purpose, for the purpose of search.
+The word vocabulary and how it's handled is completely different from a traditional thesaurus.
+And likewise, it's different from an actual word cloud.
+So being able to show people these clusters of things, and this is a lot like Ruxalo did in the CACM thing, we don't recognize that recognition is easier than recall.
+So if you just put the things out there, people can say, oh, that's what I wanted to use.
+That's the term.
+That's really what I'm interested in.
+Or these three will cover it.
+So in that sense, it's very unintuitive.
+People don't think that way.
+But in fact, we know that it pays off tremendously.
+But you can't talk anybody into doing it.
+
+That's fascinating.
+Thank you.
+I love that idea of sort of like working hard to make up a perceived deficit and having that become a lifelong strength.
+That's a great story.
+To go from the dawn of the Cretaceous Age into our hyper-modern 2019 milieu, I think people might be tempted to think to themselves, well, why do I need a 
+human being to work on clustering search terms? It sounds like something I could just get a machine to do for me.
+What are your thoughts on that? 
+
+That's a good question.
+I'll tell you a story, a confession.
+When I went to library school in the dawn of the Cretaceous period in 1966, we were still, of course, everything was still manual.
+Computers were used just at the margins of anything.
+And we had a class on reference sources where we would practice with questions and look up the answer to the questions in the reference books.
+And so we had a reference lab and it consisted of a room with copies of old reference books.
+And then we'd have a little box that would have questions on three by five cards.
+And you would answer a question and put it away and write down on your notebook.
+And at the end of the hour, you would turn in your answers.
+And I had a friend who at the end of the hour turned in 22 answers and I turned in two.
+So that hit home.
+I was used to doing well.
+I'm a smart student.
+I did well in my schooling and why was I such a doofus in this situation? So that got me interested in search.
+Because after all, this is a key librarian skill that is still true.
+And here I was going to library school and I couldn't do what librarians do half a tenth as well as my friend did.
+So what I soon learned is that there wasn't much of any knowledge about this in the field.
+It was just assumed that you would pick this up somehow, that you'd have an instinct for it.
+But I didn't.
+So it got me interested.
+Well, how can you improve search? And I started looking for heuristics and techniques to improve search and eventually published an article called Information 
+Search Tactics that was sort of my first big hit, if you will, because it had a lot of suggestions for how to find things more effectively.
+And a lot of researchers since then have used the ideas in there to see in various experiments and stuff to see if people use those tactics in their searching.
+This touches on something else.
+I recently got a letter to the editor published in the New York Times magazine.
+
+We'll put a link to that in the show notes.
+
+OK.
+It was in response to a previous issue where they had talked about women in computing.
+And what I said in this was that so much of the design of interfaces is about dominance.
+In that sense, it's it's very male.
+We tend to create relationships with others.
+Males tend to have an implicit competition with other males.
+And, you know, for whatever reason, that's kind of how we find ourselves operating in practice.
+And that bleeds even into the design of interfaces.
+And one of the things that as soon as you talk about doing something with language, which was actually very difficult, people have been working on automatic 
+translation and so on for 50 or 60 years.
+And it's been a hard, long slog.
+But if you talk to what I found again and again is that somebody designing a system wants to have everything be done automatically.
+I think it is a dominance thing.
+It's about you go out, little computer bot, and you find something for me and you bring it back to me and put it at my feet.
+That's, you know, that's the male thing.
+And not that men and women both don't have some of these tendencies.
+I'm convinced.
+But whereas women are creating relationships, that's the most that's the thing we do when we encounter a new person in our milieu is that we size each other up, 
+but in a relatedness way rather than in a dominance way.
+And we do this in the design of interfaces as well.
+We tell the bot to go out and do something for us.
+We don't set up a relationship with the system, which aids and assists us.
+And we tell it to do X and it brings something back and we have an idea and then we follow up on this thing.
+We don't create a series of features to the interface that enable you to enrich your search.
+And it would be so easy to do that if you had the kind of Google resources, you know, but that doesn't that doesn't fit it.
+So always, all these possibilities, an awful lot of the ways in which a computer can augment or support what you're doing are just brushed aside.
+They're not if they're proposed, they're ignored, because it's all about power.
+You know, it's all about having the computer do your will.
+And so a lot of possible ways that you can interact with this are lost.
+And when it comes to creating vocabulary like this, for instance, there's a huge difference between indexing billions of records, which is, you know, ridiculous, 
+we all know, we can't do that manually, and having 100% automation.
+What if you instead had some a few human beings, like 20 of them, working on vocabularies that you made available to people, so you got a lot of the crap out that 
+comes up with automatic techniques, because they, they curate the vocabulary.
+And you make these different augmenting features available to the searcher, all you need is 20 people, you don't need because you're not indexing each individual 
+document, you're giving greater richness and possibility to the person doing the searching to match with the richness that's already there in the documents.
+Sorry, I get I get launched on these things.
+And then I know, sorry. 
+
+you just need your group of librarians that you trained, they can do it.
+
+Oh, there's, you know, people, one of the areas of information architecture is taxonomy and thesaurus design, and, you know, recognizing the terminology that's 
+used in a particular work environment.
+And that involves people, you know, it, we accept that, but somehow, even a relative handful of people is somehow wasteful.
+And we have to do everything 100% automatic.
+In fact, I think we could use the strengths of the machine and the strengths of the human in a much better coordinated way than we generally do.
+
+Yeah, there's a concept you just made me think of.
+They call it human in the loop, which is in simulations.
+It happens a little bit in some games, it happens in some flight simulators, but exactly that sort of idea, 
+that it's really more the sort of partnership between the human and the computer system.
+I love the, and I am guilty of the domination type behavior.
+I think all the time about how my stupid machines should be my servants.
+I think, so thank you for that.
+Library science has been a traditional field for women professionally.
+Do you see that as changing? 
+Do you see that as a strength? 
+How do you see that relating to the modern world we find ourselves in? 
+
+Well, I think that's another one of these unfortunately gendered areas of our lives.
+I think an awful lot of the wisdom of research over these past decades of people dealing with human beings, 
+going to reference librarians and going to systems and having different features and affordances in the systems that 
+you've designed and coming up with results for what does and doesn't work and so on.
+There's a huge amount of that research, a huge amount of research about how people search for information and think 
+about information and interact with people and takes information away from an interaction and so on.
+This stuff is completely ignored because it's seen as the old.
+And I've seen so many instances of this.
+It just drives me crazy.
+My colleague, it was not my, I wasn't in that department, but here at Berkeley, Ray Larson used to be in the department until he died recently, unfortunately.
+But he had a sort of sideline consulting business where people would call him up and say, we want to prove in our lawsuit that 
+my company was the first one to come up with the X idea.
+And he goes and he finds in the literature that the thing was invented in 1962, you know, and it wasn't.
+And I've had the exact same thing happen to me.
+I remember one time somebody talking to me about the idea of sending out stuff to people in their areas of interest.
+Well, that used to be called selective dissemination of information.
+And it was first proposed in 1959 by H.P.Loom, a computer scientist, as it happened.
+But that idea was taken up in the field of library and information science.
+You know, it wasn't just libraries.
+It was information science, which blossomed in the 60s, where we were looking at information in all contexts, 
+not just restricted to libraries and information in online systems as soon as those came in.
+And they came in in the library world before they came in in the general world.
+So we had a tremendous amount of knowledge built up in information science that has been pretty successfully totally ignored.
+And it's so maddening.
+It's just so maddening when you're doing all that work and writing all those papers, you know.
+And one of the reasons I think is this stereotyping of the field.
+If the word library comes up, then it goes instantly to the stereotype of the female with the button at the back of her head.
+And I don't know where that came from, but it's reinforced every Christmas in that Jimmy Stewart movie, 
+Wonderful Life, where if he hadn't lived his wife, she wouldn't have found another guy to marry and be happy with.
+You know, she would have been totally bereft if he hadn't lived.
+She would have lived out her life as a lonely librarian.
+And they show her locking the door of the library at night when she leaves.
+And that's how she spends the rest of her life.
+You know, so these stereotypes are just so maddening.
+And there was another thing.
+There was an article by Nicholas Lehman in The New Yorker about some new feature that the smart engineers at Google had figured out.
+It was dealing with the problem of, say, one term meaning several things like mercury is a god and a car and a substance and so forth.
+And they went off and they solved this problem.
+Well, sorry, folks, but people have been thinking about that for many decades in vocabularies.
+And we had solutions, some manual and some automated.
+And, you know, sorry, you weren't the first to think of this.
+But when you think of something, it feels so new.
+You just assume that you're the only one who's ever thought of it or science versus this ghastly stereotype.
+
+How do you think we might go about changing that perception? 
+
+You need somebody with much better marketing skills than I have or than people in my field tend to have.
+I mean, it's clear that this really is about marketing.
+We have unfortunately let the outside world create our image and have not done very much against it.
+We tend to be sort of recessive personalities often.
+And it is about marketing because what we do is so it's so often exactly the same thing that somebody is doing that 
+they're getting 500 million dollars of funding for.
+Excuse me.
+We thought about that in 1982, but they get the funding and we don't.
+So that's that's the difference.
+It really is image, image, image, image.
+
+Now, my confession time, I don't know whether I should feel bad about this or not, Marcia, but way back in 2001 or so, 
+Lynn Boyden and I had the idea to teach a class in information architecture.
+So Lou Rosenfeld and Peter Moraville, librarians at Michigan, wrote a book called Information Architecture for the World Wide Web.
+Yeah.
+And over the last 15 years or so, I've recruited many library science students and graduates to come into the tech world.
+And I have to say, at first, I thought, what an amazing thing.
+What a resource.
+Here are these incredibly smart, talented, dedicated, mostly women in these classes,
+And I Lynn and I come in and we say, well, you can go work at a tech company and make maybe twice as much or three times as much in your starting job.
+And so I I've always had this like, you know, dual feeling of like on the one hand, I think it's great.
+On the other hand, I wonder how other librarians feel about this connection between the library, the library's students and the tech world.
+How have you seen that? How has that appeared to you? 
+
+Well, see, from the very beginning, I when I got into the program in 1966, 
+that was the beginning of what was then called information science.
+And it was an explicit effort to make this about information in all of its contexts and uses, not just about a particular institution called the library.
+And I have always taught that way.
+So when I teach students how to search, it's about how to search in any context.
+It's certainly not limited to this particular historical institution, you know.
+And so I've never seen that conflict here.
+I know for some librarians there is, but there never has been for me.
+This is always about I got really excited when I was a graduate student about what was then called information seeking and use.
+
+And there were a number of studies that had already been done that were very redeeming and countered a lot of people's assumptions.
+Just to take a sort of obvious one.
+Previously, people thought when you had some technical question, you would go look it up in a technical book that would have 
+the information and you knew the information would be correct.
+People don't do that.
+People ask their friend on the next table over.
+They call up the vendor because the vendor has worked with this particular thing a whole lot.
+And so they call the vendor.
+You know, this was the stuff that we were learning in 1965.
+That was the stuff that my mentor, Bill Paisley, was doing research on in those days.
+And the first chapter on information seeking and use that appeared in the annual review of information science and technology in about 65 or 68, 
+somewhere in there, was written by Bill Paisley.
+And it's it could be written today.
+There's nothing ancient or out of date about it except the lack of digital resources.
+But otherwise, it's got so much in it about how people use these things in their work and so on.
+That is a part of the general.
+See, to me, I meant to say that the Encyclopedia was actually the Encyclopedia of Library and Information Sciences.
+And we said that in the plural because we think there are many information sciences and librarianship was just one of them.
+In fact, I wanted to call the Encyclopedia the Encyclopedia of the Information Disciplines.
+But that, you know, the publishers wanted to go with what was familiar and so forth.
+And we tried to cover them all.
+We tried to work in parallel on records management and archives and museology and documentation and bibliography.
+And, you know, there's just a slew of them.
+Medical informatics on and on.
+There's all these different information fields.
+And that, to me, is because at the core, it's all about information and human beings relationship to that.
+And that doesn't require any particular institution to be a valid area of study.
+
+I'm curious, where would you like to see this industry evolve in, say, five, ten years? 
+
+Well, I certainly think it's unfortunate that 
+so much of the information about us as people has been commercialized and seen only for its commercial possibilities and 
+just completely blowing away privacy and ways of helping people.
+People are not put at the center of the information world nowadays.
+Instead, it's all about making as much money off of their data as possible.
+And I think this has got it really wrong.
+I think it would be great if we could find a way to turn that around and have a field that was focused on the people.
+And that, I think, remains the strength of the different places around the country that call themselves iSchools, which is taking the information focus,
+but also taking the people focus, because it's looking at human beings and their relationship to information for the sake of the human being, 
+not for the sake of making money.
+Not that money's bad.
+Love money.
+But you want to have a focus on the people as well.
+
+Right.
+I have a little bit of a cynical thought that came up while you were talking.
+It's mostly around search engine optimization, and it feels like a very competitive game to get your search results at the top of the page.
+And I have known some colleagues who were a director of taxonomy, but the goal was winning the competition.
+It wasn't making the search results more valuable and meaningful with real, credible sources.
+And that's kind of like the game versus the empathy towards user-centered design.
+
+Yeah.
+And I think that's probably the biggest thing that's been lost in rejecting the whole world of libraries and the traditional focus on information, 
+was that it was about service.
+It was about helping people.
+And how can you best help them And that is just totally blown away in this.
+And I think it's really unfortunate.
+Again, it's going into this competitive thing instead of actually connecting humans, instead of just claiming it's connecting humans.
+
+Marcia, we have a standard question that we like to ask, and that is, how do you see your legacy to this field? 
+
+Well, it's very much on my mind because I'm 76 years old, and I am seeing all the ways in which I'm not current with some of the stuff that's happening in the field.
+So it's a good question.
+I think I toggle back and forth between thinking that I might have an impact and will be known when I'm gone and stuff like that.
+Alternatively, thinking, well, this field and this body of learning that we have is being largely brushed aside in a culture that's focused on 
+monetizing information and thinking pretty much only about monetizing information.
+So I know be the little thing that gets washed to the side and is forever forgotten, except maybe some history student gets interested in it sometime, 
+or someone who continues to have impact because at some point, somehow, 
+the field gets excited again about the people at the heart of this and decides to focus on the people and put the other stuff aside.
+
+That's wonderful.
+I have one completely unrelated question.
+I know you did some volunteering for the Peace Corps in Thailand.
+I'm just curious, from that experience, what is one thing that you came away with from that experience? 
+
+Oh, wow.
+Many things I came away with.
+I had been to Europe as a college student and had dealt some with the shock of a different culture and stuff like that.
+But when I went to Thailand and was in upcountry Thailand, it was triple that.
+It was so different.
+It really taught me that stuff that you think is just human is often just your culture.
+You need to be open and move beyond that and not be surprised if another culture does something differently than what you're used to.
+I thought that was just an invaluable lesson to get out of that experience.
+
+So good.
+
+That's great.
+Well, thank you so much for being on the show today.
+We're really honored.
+
+Yeah.
+Thank you, Marcia.
+
+Thank you for having me.
+It's great to be able to talk with you about these things.

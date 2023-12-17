@@ -1,0 +1,187 @@
+Yeah, there's a concept you just made me think of.
+They call it human in the loop, which is in simulations.
+It happens a little bit in some games, it happens in some flight simulators, but exactly that sort of idea, 
+that it's really more the sort of partnership between the human and the computer system.
+I love the, and I am guilty of the domination type behavior.
+I think all the time about how my stupid machines should be my servants.
+I think, so thank you for that.
+Library science has been a traditional field for women professionally.
+Do you see that as changing? 
+Do you see that as a strength? 
+How do you see that relating to the modern world we find ourselves in? 
+
+Well, I think that's another one of these unfortunately gendered areas of our lives.
+I think an awful lot of the wisdom of research over these past decades of people dealing with human beings, 
+going to reference librarians and going to systems and having different features and affordances in the systems that 
+you've designed and coming up with results for what does and doesn't work and so on.
+There's a huge amount of that research, a huge amount of research about how people search for information and think 
+about information and interact with people and takes information away from an interaction and so on.
+This stuff is completely ignored because it's seen as the old.
+And I've seen so many instances of this.
+It just drives me crazy.
+My colleague, it was not my, I wasn't in that department, but here at Berkeley, Ray Larson used to be in the department until he died recently, unfortunately.
+But he had a sort of sideline consulting business where people would call him up and say, we want to prove in our lawsuit that 
+my company was the first one to come up with the X idea.
+And he goes and he finds in the literature that the thing was invented in 1962, you know, and it wasn't.
+And I've had the exact same thing happen to me.
+I remember one time somebody talking to me about the idea of sending out stuff to people in their areas of interest.
+Well, that used to be called selective dissemination of information.
+And it was first proposed in 1959 by H.P.Loom, a computer scientist, as it happened.
+But that idea was taken up in the field of library and information science.
+You know, it wasn't just libraries.
+It was information science, which blossomed in the 60s, where we were looking at information in all contexts, 
+not just restricted to libraries and information in online systems as soon as those came in.
+And they came in in the library world before they came in in the general world.
+So we had a tremendous amount of knowledge built up in information science that has been pretty successfully totally ignored.
+And it's so maddening.
+It's just so maddening when you're doing all that work and writing all those papers, you know.
+And one of the reasons I think is this stereotyping of the field.
+If the word library comes up, then it goes instantly to the stereotype of the female with the button at the back of her head.
+And I don't know where that came from, but it's reinforced every Christmas in that Jimmy Stewart movie, 
+Wonderful Life, where if he hadn't lived his wife, she wouldn't have found another guy to marry and be happy with.
+You know, she would have been totally bereft if he hadn't lived.
+She would have lived out her life as a lonely librarian.
+And they show her locking the door of the library at night when she leaves.
+And that's how she spends the rest of her life.
+You know, so these stereotypes are just so maddening.
+And there was another thing.
+There was an article by Nicholas Lehman in The New Yorker about some new feature that the smart engineers at Google had figured out.
+It was dealing with the problem of, say, one term meaning several things like mercury is a god and a car and a substance and so forth.
+And they went off and they solved this problem.
+Well, sorry, folks, but people have been thinking about that for many decades in vocabularies.
+And we had solutions, some manual and some automated.
+And, you know, sorry, you weren't the first to think of this.
+But when you think of something, it feels so new.
+You just assume that you're the only one who's ever thought of it or science versus this ghastly stereotype.
+
+How do you think we might go about changing that perception? 
+
+You need somebody with much better marketing skills than I have or than people in my field tend to have.
+I mean, it's clear that this really is about marketing.
+We have unfortunately let the outside world create our image and have not done very much against it.
+We tend to be sort of recessive personalities often.
+And it is about marketing because what we do is so it's so often exactly the same thing that somebody is doing that 
+they're getting 500 million dollars of funding for.
+Excuse me.
+We thought about that in 1982, but they get the funding and we don't.
+So that's that's the difference.
+It really is image, image, image, image.
+
+Now, my confession time, I don't know whether I should feel bad about this or not, Marcia, but way back in 2001 or so, 
+Lynn Boyden and I had the idea to teach a class in information architecture.
+So Lou Rosenfeld and Peter Moraville, librarians at Michigan, wrote a book called Information Architecture for the World Wide Web.
+Yeah.
+And over the last 15 years or so, I've recruited many library science students and graduates to come into the tech world.
+And I have to say, at first, I thought, what an amazing thing.
+What a resource.
+Here are these incredibly smart, talented, dedicated, mostly women in these classes,
+And I Lynn and I come in and we say, well, you can go work at a tech company and make maybe twice as much or three times as much in your starting job.
+And so I I've always had this like, you know, dual feeling of like on the one hand, I think it's great.
+On the other hand, I wonder how other librarians feel about this connection between the library, the library's students and the tech world.
+How have you seen that? How has that appeared to you? 
+
+Well, see, from the very beginning, I when I got into the program in 1966, 
+that was the beginning of what was then called information science.
+And it was an explicit effort to make this about information in all of its contexts and uses, not just about a particular institution called the library.
+And I have always taught that way.
+So when I teach students how to search, it's about how to search in any context.
+It's certainly not limited to this particular historical institution, you know.
+And so I've never seen that conflict here.
+I know for some librarians there is, but there never has been for me.
+This is always about I got really excited when I was a graduate student about what was then called information seeking and use.
+
+And there were a number of studies that had already been done that were very redeeming and countered a lot of people's assumptions.
+Just to take a sort of obvious one.
+Previously, people thought when you had some technical question, you would go look it up in a technical book that would have 
+the information and you knew the information would be correct.
+People don't do that.
+People ask their friend on the next table over.
+They call up the vendor because the vendor has worked with this particular thing a whole lot.
+And so they call the vendor.
+You know, this was the stuff that we were learning in 1965.
+That was the stuff that my mentor, Bill Paisley, was doing research on in those days.
+And the first chapter on information seeking and use that appeared in the annual review of information science and technology in about 65 or 68, 
+somewhere in there, was written by Bill Paisley.
+And it's it could be written today.
+There's nothing ancient or out of date about it except the lack of digital resources.
+But otherwise, it's got so much in it about how people use these things in their work and so on.
+That is a part of the general.
+See, to me, I meant to say that the Encyclopedia was actually the Encyclopedia of Library and Information Sciences.
+And we said that in the plural because we think there are many information sciences and librarianship was just one of them.
+In fact, I wanted to call the Encyclopedia the Encyclopedia of the Information Disciplines.
+But that, you know, the publishers wanted to go with what was familiar and so forth.
+And we tried to cover them all.
+We tried to work in parallel on records management and archives and museology and documentation and bibliography.
+And, you know, there's just a slew of them.
+Medical informatics on and on.
+There's all these different information fields.
+And that, to me, is because at the core, it's all about information and human beings relationship to that.
+And that doesn't require any particular institution to be a valid area of study.
+
+I'm curious, where would you like to see this industry evolve in, say, five, ten years? 
+
+Well, I certainly think it's unfortunate that 
+so much of the information about us as people has been commercialized and seen only for its commercial possibilities and 
+just completely blowing away privacy and ways of helping people.
+People are not put at the center of the information world nowadays.
+Instead, it's all about making as much money off of their data as possible.
+And I think this has got it really wrong.
+I think it would be great if we could find a way to turn that around and have a field that was focused on the people.
+And that, I think, remains the strength of the different places around the country that call themselves iSchools, which is taking the information focus,
+but also taking the people focus, because it's looking at human beings and their relationship to information for the sake of the human being, 
+not for the sake of making money.
+Not that money's bad.
+Love money.
+But you want to have a focus on the people as well.
+
+Right.
+I have a little bit of a cynical thought that came up while you were talking.
+It's mostly around search engine optimization, and it feels like a very competitive game to get your search results at the top of the page.
+And I have known some colleagues who were a director of taxonomy, but the goal was winning the competition.
+It wasn't making the search results more valuable and meaningful with real, credible sources.
+And that's kind of like the game versus the empathy towards user-centered design.
+
+Yeah.
+And I think that's probably the biggest thing that's been lost in rejecting the whole world of libraries and the traditional focus on information, 
+was that it was about service.
+It was about helping people.
+And how can you best help them And that is just totally blown away in this.
+And I think it's really unfortunate.
+Again, it's going into this competitive thing instead of actually connecting humans, instead of just claiming it's connecting humans.
+
+Marcia, we have a standard question that we like to ask, and that is, how do you see your legacy to this field? 
+
+Well, it's very much on my mind because I'm 76 years old, and I am seeing all the ways in which I'm not current with some of the stuff that's happening in the field.
+So it's a good question.
+I think I toggle back and forth between thinking that I might have an impact and will be known when I'm gone and stuff like that.
+Alternatively, thinking, well, this field and this body of learning that we have is being largely brushed aside in a culture that's focused on 
+monetizing information and thinking pretty much only about monetizing information.
+So I know be the little thing that gets washed to the side and is forever forgotten, except maybe some history student gets interested in it sometime, 
+or someone who continues to have impact because at some point, somehow, 
+the field gets excited again about the people at the heart of this and decides to focus on the people and put the other stuff aside.
+
+That's wonderful.
+I have one completely unrelated question.
+I know you did some volunteering for the Peace Corps in Thailand.
+I'm just curious, from that experience, what is one thing that you came away with from that experience? 
+
+Oh, wow.
+Many things I came away with.
+I had been to Europe as a college student and had dealt some with the shock of a different culture and stuff like that.
+But when I went to Thailand and was in upcountry Thailand, it was triple that.
+It was so different.
+It really taught me that stuff that you think is just human is often just your culture.
+You need to be open and move beyond that and not be surprised if another culture does something differently than what you're used to.
+I thought that was just an invaluable lesson to get out of that experience.
+
+So good.
+
+That's great.
+Well, thank you so much for being on the show today.
+We're really honored.
+
+Yeah.
+Thank you, Marcia.
+
+Thank you for having me.
+It's great to be able to talk with you about these things.
